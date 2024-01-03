@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BFWheels
-- 👀 I’m interested in learing about a bit of everything to find what i like most
+- 👀 I’m interested in learning about a bit of everything to find what i like most
 - 🌱 I’m currently learning python and a little of introduction in sql.
 - 💞️ I’m looking to collaborate on anything I'm tottaly new to this and as for now I'm liking it :P
 
